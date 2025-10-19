@@ -15,6 +15,7 @@ O **StydyTracker** é uma aplicação web projetada para estudantes e autodidata
 O objetivo é transformar o estudo fragmentado em um caminho claro e mensurável, permitindo que o usuário anexe todos os seus recursos e anotações a um tópico específico e visualize seu avanço de forma intuitiva.
 
 ### 🛠️ Tecnologias
+
 * **Frontend:** Angular
 * **Backend:** C# / .NET 8
 * **Banco de Dados:** PostgreSQL
